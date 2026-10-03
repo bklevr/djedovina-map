@@ -15,6 +15,7 @@ const MAP_DATA = `${SUPABASE_URL}/functions/v1/map-data`;
 const ANTHROPIC_KEY = Deno.env.get("ANTHROPIC_API_KEY") ?? "";
 const ANTHROPIC_MODEL = Deno.env.get("ANTHROPIC_MODEL") ?? "claude-haiku-4-5";
 const ALLOWED_ORIGINS = new Set([
+  "https://bklevr.github.io",
   "https://davidranderson1.github.io",
   "https://djedovina.com",
   "https://www.djedovina.com",

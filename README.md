@@ -4,7 +4,7 @@ Internal property-layer map for the Split hinterland: cadastral parcels colour-c
 
 Data is served by a key-gated endpoint; the page asks for the team access key on first load. No credentials live in this repository.
 
-Site: https://davidranderson1.github.io/djedovina-map/
+Site: https://bklevr.github.io/djedovina-map/ - moved from davidranderson1 to the bklevr organization on 2026-10-03; the old address redirects.
 
 v19 (14 Sep 2026): Contacts — people and organisations we meet, meetings and calls, documents, named places, and "Ask" in plain words. Backend sources under `supabase/`.
 
